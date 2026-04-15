@@ -89,9 +89,9 @@ export const clothes = [
   },
   {
     id: 3,
-    name: "Floral Midi Dress",
+    name: "Hoody",
     brand: "BloomWear",
-    category: "Dresses",
+    category: "Outerware",
     price: 3200,
     rating: 4.7,
     reviews: 214,
@@ -101,7 +101,7 @@ export const clothes = [
     sizes: ["XS", "S", "M", "L", "XL"],
     colors: ["Pink Floral", "Blue Floral", "Yellow Floral"],
     image:
-      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&q=80",
+      "https://images.unsplash.com/photo-1601063476271-a159c71ab0b3?w=600",
     tags: ["summer", "floral", "casual", "brunch"],
     stores: [
       {
@@ -177,7 +177,7 @@ export const clothes = [
   },
   {
     id: 5,
-    name: "Striped Cotton Kurti",
+    name: "Striped Half Shirt",
     brand: "EthnicEra",
     category: "Ethnic",
     price: 1450,
@@ -189,7 +189,7 @@ export const clothes = [
     sizes: ["XS", "S", "M", "L", "XL", "XXL", "XXXL"],
     colors: ["Red & White", "Blue & White", "Green & White"],
     image:
-      "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=400&q=80",
+      "https://images.unsplash.com/photo-1760287363713-a864ca9b1b1f?q=80&w=687",
     tags: ["ethnic", "casual", "daily wear"],
     stores: [
       {
@@ -238,7 +238,7 @@ export const clothes = [
     sizes: ["XS", "S", "M", "L", "XL", "XXL"],
     colors: ["Black", "Grey", "Navy Blue", "Maroon"],
     image:
-      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=400&q=80",
+      "https://images.unsplash.com/photo-1715532098035-a343b26eaeaa?w=600",
     tags: ["sporty", "athleisure", "comfort"],
     stores: [
       {

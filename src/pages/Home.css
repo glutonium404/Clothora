@@ -22,8 +22,9 @@
 }
 
 .home-title {
-  font-size: 22px;
+  font-size: 32px;
   font-weight: 700;
+  font-family: cursive;
   margin: 0;
   letter-spacing: -0.3px;
 }
