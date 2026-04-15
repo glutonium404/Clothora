@@ -25,7 +25,7 @@ export default function ClothingCard({ item }) {
             <span>{item.rating}</span>
             <span className="card-reviews">({item.reviews})</span>
           </div>
-          <p className="card-price">₹{item.price.toLocaleString("en-IN")}</p>
+          <p className="card-price"><span className="bdt_sym">৳</span>{item.price.toLocaleString("en-IN")}</p>
         </div>
         <div className="card-stores">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#6366f1" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

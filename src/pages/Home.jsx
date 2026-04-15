@@ -32,10 +32,10 @@ export default function Home() {
       <header className="home-header">
         <div className="home-header-top">
           <div>
-            <p className="home-greeting">Good morning 👋</p>
-            <h1 className="home-title">Find your style</h1>
+            <h1 className="home-title">Clothora</h1>
+            <p className="home-greeting">Find your style</p>
           </div>
-          <div className="home-avatar">A</div>
+          <div className="home-avatar">C</div>
         </div>
 
         {/* Search */}

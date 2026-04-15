@@ -9,7 +9,7 @@ export default function Profile() {
 
   const preferences = [
     { icon: "👗", label: "Favourite Category", value: "Casual Wear" },
-    { icon: "📍", label: "Your Location", value: "Koramangala, Bengaluru" },
+    { icon: "📍", label: "Your Location", value: "Sylhet, Bangladesh" },
     { icon: "🔔", label: "Notifications", value: "Enabled" },
     { icon: "🌐", label: "Language", value: "English" },
   ];
@@ -19,11 +19,11 @@ export default function Profile() {
       {/* Header */}
       <div className="profile-header">
         <div className="profile-avatar-wrap">
-          <div className="profile-avatar">A</div>
+          <div className="profile-avatar">C</div>
           <div className="avatar-edit-dot">✎</div>
         </div>
-        <h1 className="profile-name">Arjun Sharma</h1>
-        <p className="profile-email">arjun.sharma@email.com</p>
+        <h1 className="profile-name">Clothora</h1>
+        <p className="profile-email">clothora@email.com</p>
       </div>
 
       {/* Stats */}
@@ -47,7 +47,7 @@ export default function Profile() {
           </p>
           <div className="about-features">
             {[
-              { icon: "🗺️", text: "Location-based store finder" },
+              { icon: "🗺️", text: "Larjun.sharmaocation-based store finder" },
               { icon: "👕", text: "Discover clothes before visiting stores" },
               { icon: "⏱️", text: "Save time, skip unnecessary trips" },
               { icon: "🤝", text: "Feel the fabric before you buy" },
